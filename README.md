@@ -1,4 +1,4 @@
-# 🔍 SERP Hard/Soft Clustering Engine v2.2 — Документация
+# 🔍 SERP Hard/Soft Clustering Engine — Документация
 
 ## Оглавление
 

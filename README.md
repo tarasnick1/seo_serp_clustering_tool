@@ -220,7 +220,7 @@ Hard после сужения:
   {A, C, E} → A∩C∩E = 4 URL ✓
   {B, D}    → B∩D = 4 URL ✓   (отдельный кластер)
 ```
-
+![Soft vs Hard кластер](soft_vs_hard_serp_clustering.png)
 ---
 
 ## 6. Детальное описание каждого шага
